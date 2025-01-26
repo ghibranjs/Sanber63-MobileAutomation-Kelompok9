@@ -13,6 +13,7 @@ Nama Lengkap - Nama github
 Bagian Tugas
 
 1. Sign In (Erma)
-2. Book Flight One Way Economy & First Class(Malia) 
-3. Search (Salsabila)
-4. Sign Out
+2. Book Flight One Way Economy & First Class(Malia)
+3. Book Flight Round Trip Economy & First (GHhibranjs)
+4. Search (Salsabila)
+5. Sign Out
